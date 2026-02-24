@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="books_structure.xsl"?>
+
+<books>
+
+<book>
+<title>Data Structures in C</title>
+<author>Ravi Kumar</author>
+<isbn>9788123456701</isbn>
+<publisher>Tech India Publications</publisher>
+<edition>2</edition>
+<price>450</price>
+</book>
+
+<book>
+<title>Introduction to Python</title>
+<author>Ananya Sharma</author>
+<isbn>9788123456702</isbn>
+<publisher>Bright Learning</publisher>
+<edition>3</edition>
+<price>550</price>
+</book>
+
+<book>
+<title>Computer Networks</title>
+<author>Arjun Reddy</author>
+<isbn>9788123456703</isbn>
+<publisher>Academic Press India</publisher>
+<edition>5</edition>
+<price>720</price>
+</book>
+
+<book>
+<title>Database Management Systems</title>
+<author>Priya Verma</author>
+<isbn>9788123456704</isbn>
+<publisher>Knowledge Publishers</publisher>
+<edition>4</edition>
+<price>680</price>
+</book>
+
+<book>
+<title>Artificial Intelligence Basics</title>
+<author>Suresh Patel</author>
+<isbn>9788123456705</isbn>
+<publisher>Future Tech Books</publisher>
+<edition>1</edition>
+<price>600</price>
+</book>
+
+</books>
